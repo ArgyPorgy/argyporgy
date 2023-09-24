@@ -15,8 +15,6 @@
 
 - 📝 I regularly write articles on [https://twitter.com/ArghyaChow14](https://twitter.com/ArghyaChow14)
 
-- 💬 Ask me about **Front-end dev, AI, Blockchain & Crypto**
-
 - 📫 How to reach me **carghya10@gmail.com**
 
 ### Blogs posts
